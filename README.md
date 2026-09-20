@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:d2691e&height=200&section=header&text=LIVSUN&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20agents%20%7C%20markets%20%7C%20autonomous%20systems&descAlignY=60&descSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:d2691e&height=200&section=header&text=LIVSUN&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20agents%20%7C%20markets%20%7C%20Trading%20systems&descAlignY=60&descSize=20" />
 
 </div>
 
