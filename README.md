@@ -8,11 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=D2691E&center=true&vCenter=true&width=600&lines=Building+cognitive+architecture%2C+not+just+scripts.;AI+agents+%7C+quant+%7C+prediction+markets.;Learning+by+shipping%2C+not+by+reading." alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/LIVSUN?label=Followers&style=for-the-badge&color=d2691e&labelColor=1a1a1a" />
-  <img src="https://komarev.com/ghpvc/?username=LIVSUN&color=d2691e&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitors" />
-</p>
-
 ---
 
 ## 🧠 About
@@ -43,21 +38,12 @@ builder = {
 
 ## 🚀 What I'm building
 
-### [`EDGERUN`](https://github.com/LIVSUN/EDGERUN)
+### [`EDGERUN`](https://github.com/L1VSUN/EDGERUN)
 Market-brain model trading live on Robinhood — decision logic run as a system, not a signal you read and act on manually.
 
 `Python` `Trading` `Automation`
 
 > Repos evolve as the thinking does — check pinned repos for what's actually live.
-
----
-
-## 📊 Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LIVSUN&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LIVSUN&theme=github_dark" />
-</p>
 
 ---
 
