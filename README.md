@@ -19,9 +19,7 @@
 
 ```python
 builder = {
-    "core_project":  "Параллель — multi-agent cognitive architecture, an extension of my own thinking",
     "live_project":  "EDGERUN — a market-brain model trading live on Robinhood",
-    "other_work":    "multi-account X content ops across AI, quant finance, prediction markets",
     "approach":      "systems that run unattended, not scripts I babysit",
     "status":        "always experimenting",
 }
@@ -49,16 +47,6 @@ builder = {
 Market-brain model trading live on Robinhood — decision logic run as a system, not a signal you read and act on manually.
 
 `Python` `Trading` `Automation`
-
-### `Параллель`
-Multi-agent cognitive system extending my own thinking — agents differentiated by cognitive style rather than by task, a personal architecture rather than a product.
-
-`AI Agents` `Cognitive Architecture`
-
-### Content operation
-Multi-account X/Twitter operation across AI, quant finance, and prediction-market niches — production pipeline, not a personal feed.
-
-`Content Systems` `Growth`
 
 > Repos evolve as the thinking does — check pinned repos for what's actually live.
 
