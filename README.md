@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=D2691E&center=true&vCenter=true&width=600&lines=_Building+a+cognitive+architecture%2C+not+just+scripts.;AI+agents+%7C+quant+%7C+prediction+markets.;Learning+by+shipping%2C+not+by+reading." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=D2691E&center=true&vCenter=true&width=600&lines=Building+cognitive+architecture%2C+not+just+scripts.;AI+agents+%7C+quant+%7C+prediction+markets.;Learning+by+shipping%2C+not+by+reading." alt="Typing SVG" />
 </p>
 
 <p align="center">
